@@ -15,23 +15,15 @@ $H(\mathbf x,\mathbf y)=\frac12\left(y_1^2+y_2^2\right)+x_2y_1-x_1y_2-x_1^2+\fra
 $\mathbf x=(x_1,x_2)$ is the coordinates vector, а $\mathbf y=(y_1,y_2)$ is the conjugate momenta vector.
 
 Canonical equations of motion 
-$
-\left\{
-\begin{aligned}
-\dot x_1&=y_1+x_2,& \dot y_1&=y_2+2x_1-\frac{x_1}{r^3},\\[2pt]
-\dot x_2&=y_2-x_1,& \dot y_2&=-y_1-x_2-\frac{x_2}{r^3}.
-\end{aligned}
-\right.
-$
+
+$\dot x_1=y_1+x_2,& \dot y_1&=y_2+2x_1-\frac{x_1}{r^3}$,
+
+$\dot x_2&=y_2-x_1,& \dot y_2&=-y_1-x_2-\frac{x_2}{r^3}$.
 
 Equations of motion have a single first integral 
 which is traditionally written in the form of Jacobi 
 integral in variables $(\mathbf x,\dot{\mathbf x})$:
-$
-\begin{equation}\label{eq:Jacobi}
-\mathcal J=3x_1^2+\frac{2}{r}-\dot x_1^2-\dot x_2^2=C,
-\end{equation}
-$
+$\mathcal J=3x_1^2+\frac{2}{r}-\dot x_1^2-\dot x_2^2=C$, 
 where $C$ is the Jacobi constant.
 
 Equations of the Hill’s problem are invariant 
