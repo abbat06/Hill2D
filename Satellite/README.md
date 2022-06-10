@@ -6,7 +6,7 @@ Families $g$ and $f$ are families of double symmetric direct and retrograde sate
 
 
 
-[Henon69]: Hénon, M., Numerical exploration of the restricted problem. V. Hill’s case: Periodic orbits and their stability, Astron. & Astrophys., 1969, vol. 1, pp. 223–238. "Henon1969"
+[Henon69]: Hénon, M., Numerical exploration of the restricted problem. V. Hill’s case: Periodic orbits and their stability, Astron. & Astrophys., 1969, vol. 1, pp. 223–238.
 
 [Henon70]: Hénon, M., Numerical exploration of the restricted 
 problem. Hill’s case: nonperiodic orbits, Astron. & Astrophys., 1970, no. 9, pp. 24–36. 
