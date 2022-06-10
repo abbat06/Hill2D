@@ -11,33 +11,29 @@ relative to their common center of mass, the problem
 is called circular. 
 
 The Hamilton function for the planar circular Hill’s problem 
-$H(\mathbf x,\mathbf y)=\frac12\left(y_1^2+y_2^2\right)+x_2y_1-x_1y_2-x_1^2+\frac12x_2^2-\frac1r,\quad r=\sqrt{x_1^2+x_2^2}$, where
+$H(\mathbf x,\mathbf y)=\frac12\left(y_1^2+y_2^2\right)+x_2y_1-x_1y_2-x_1^2+\frac12x_2^2-\dfrac1r,\quad r=\sqrt{x_1^2+x_2^2}$, where
 $\mathbf x=(x_1,x_2)$ is the coordinates vector, а $\mathbf y=(y_1,y_2)$ is the conjugate momenta vector.
 
 Canonical equations of motion 
 
-$\dot x_1=y_1+x_2,& \dot y_1&=y_2+2x_1-\frac{x_1}{r^3}$,
+$\dot x_1=y_1+x_2,& \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}$,
 
-$\dot x_2&=y_2-x_1,& \dot y_2&=-y_1-x_2-\frac{x_2}{r^3}$.
+$\dot x_2&=y_2-x_1,& \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}$.
 
 Equations of motion have a single first integral 
 which is traditionally written in the form of Jacobi 
 integral in variables $(\mathbf x,\dot{\mathbf x})$:
-$\mathcal J=3x_1^2+\frac{2}{r}-\dot x_1^2-\dot x_2^2=C$, 
+$\mathcal J=3x_1^2+\dfrac{2}{r}-\dot x_1^2-\dot x_2^2=C$, 
 where $C$ is the Jacobi constant.
 
 Equations of the Hill’s problem are invariant 
 with respect to a finite group of linear transformations 
-of phase variables $(\mathbf х,\mathbf у)$ and time $t$:
-$
-\begin{aligned}
-\Sigma_1:& (t,x_1,x_2,y_1,y_2)\to(-t,x_1,-x_2,-y_1,y_2),\\
-\Sigma_2:& (t,x_1,x_2,y_1,y_2)\to(-t,-x_1,x_2,y_1,-y_2)
-\end{aligned}
-$
+of phase variables $(\mathbf х,\mathbf у)$ and time $t$: 
+* $\Sigma_1: (t,x_1,x_2,y_1,y_2)\to(-t,x_1,-x_2,-y_1,y_2)$
+* $\Sigma_2: (t,x_1,x_2,y_1,y_2)\to(-t,-x_1,x_2,y_1,-y_2)$
+* $\Sigma_{12}: (t,x_1,x_2,y_1,y_2)\to(t,-x_1,-x_2,-y_1,-y_2)$
 
-All periodic solutions to the Hill’s problem can be 
-divided in three groups depending on their paradigm 
+All periodic solutions to the Hill’s problem can be divided in three groups depending on their paradigm 
 of changes under the action of the above transformations:
 
 * *asymmetric solutions*, which go over into other 
