@@ -16,9 +16,9 @@ $\mathbf x=(x_1,x_2)$ is the coordinates vector, а $\mathbf y=(y_1,y_2)$ is the
 
 Canonical equations of motion 
 
-$\dot x_1=y_1+x_2,& \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}$,
+$\dot x_1=y_1+x_2, \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}$,
 
-$\dot x_2&=y_2-x_1,& \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}$.
+$\dot x_2&=y_2-x_1, \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}$.
 
 Equations of motion have a single first integral 
 which is traditionally written in the form of Jacobi 
