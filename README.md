@@ -14,11 +14,9 @@ The Hamilton function for the planar circular Hill’s problem
 $H(\mathbf x,\mathbf y)=\frac12\left(y_1^2+y_2^2\right)+x_2y_1-x_1y_2-x_1^2+\frac12x_2^2-\dfrac1r,\quad r=\sqrt{x_1^2+x_2^2}$, where
 $\mathbf x=(x_1,x_2)$ is the coordinates vector, а $\mathbf y=(y_1,y_2)$ is the conjugate momenta vector.
 
-Canonical equations of motion 
+Canonical equations of motions: 
 
-$\dot x_1=y_1+x_2, \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}$,
-
-$\dot x_2&=y_2-x_1, \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}$.
+$\dot x_1=y_1+x_2, \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}$, $\dot x_2=y_2-x_1, \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}$.
 
 Equations of motion have a single first integral 
 which is traditionally written in the form of Jacobi 
