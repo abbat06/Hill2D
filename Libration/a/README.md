@@ -7,7 +7,7 @@ It is a family of zeromultiple $\Sigma_1$-symmetric libration orbits which are c
 
 Some examples of the orbits 
 <center>
-![Orbits](https://github.com/abbat06/Hill2D/edit/main/Libration/a/a_orbits.pdf)
+![Orbits](https://github.com/abbat06/Hill2D/blob/main/Libration/a/a_orbits.pdf)
 </center>
 
 This family is unstable for all values of $C$
