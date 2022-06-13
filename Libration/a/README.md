@@ -7,7 +7,8 @@ It is a family of zeromultiple $\Sigma_1$-symmetric libration orbits which are c
 
 Some examples of the orbits 
 <center>
-![Orbits](./a_orbits.pdf)
+![Orbits](./a_orbits.jpg)
+<img src="./a_orbits.jpg">
 </center>
 
 This family is unstable for all values of $C$
