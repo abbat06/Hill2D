@@ -7,13 +7,11 @@ It is a family of zeromultiple $\Sigma_1$-symmetric libration orbits which are c
 
 Some examples of the orbits 
 <center>
-![Orbits](https://github.com/abbat06/Hill2D/edit/main/Libration/a/a_orbits.pdf)
+<img src="./a_orbits.jpg">
 </center>
 
-This family is unstable for all values of $C$
-<center>
-![Stability index for family a](https://github.com/abbat06/Hill2D/edit/main/Libration/a/astab.pdf)
-</center>
+This family is unstable for all values of $C$ [Stability index](./astab.pdf)
 
-[Family data](https://github.com/abbat06/Hill2D/edit/main/Libration/a/a.dat)
+
+[Family data](./a.dat)
 
