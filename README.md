@@ -15,7 +15,7 @@ Boldface variables are vectors and here $\mathbf x=(x_1,x_2)$ is the *coordinate
 
 Canonical equations of motions: 
 
-$$\dot x_1=y_1+x_2, \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}, \dot x_2=y_2-x_1, \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}.$$
+$$\begin{aligned}\dot x_1&=y_1+x_2,\\ \dot y_1&=y_2+2x_1-\dfrac{x_1}{r^3},\\ \dot x_2&=y_2-x_1,\\ \dot y_2&=-y_1-x_2-\dfrac{x_2}{r^3}\end{aligned}.$$
 
 Equations of motion have a single first integral which is traditionally written in the form of Jacobi 
 integral in variables $(\mathbf x,\dot{\mathbf x})$: 
