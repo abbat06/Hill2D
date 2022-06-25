@@ -15,13 +15,13 @@ Boldface variables are vectors and here $\mathbf x=(x_1,x_2)$ is the *coordinate
 
 Canonical equations of motions: 
 
-$\dot x_1=y_1+x_2, \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}$, $\dot x_2=y_2-x_1, \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}$.
+$$\dot x_1=y_1+x_2, \dot y_1=y_2+2x_1-\dfrac{x_1}{r^3}, \dot x_2=y_2-x_1, \dot y_2=-y_1-x_2-\dfrac{x_2}{r^3}.$$
 
-Equations of motion have a single first integral 
-which is traditionally written in the form of Jacobi 
-integral in variables $(\mathbf x,\dot{\mathbf x})$:
-$\mathcal J=3x_1^2+\dfrac{2}{r}-\dot x_1^2-\dot x_2^2=C$, 
-where $C$ is the Jacobi constant.
+Equations of motion have a single first integral which is traditionally written in the form of Jacobi 
+integral in variables $(\mathbf x,\dot{\mathbf x})$: 
+$$\mathcal J=3x_1^2+\dfrac{2}{r}-\dot x_1^2-\dot x_2^2=C,$$ 
+where $C$ is the Jacobi constant connected with Hamiltonian value $H$ by equation
+$$C=-2H.$$
 
 Equations of the Hill’s problem are invariant 
 with respect to a finite group of linear transformations 
