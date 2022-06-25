@@ -10,9 +10,9 @@ If two massive bodies rotate uniformly in circular orbits
 relative to their common center of mass, the problem 
 is called circular. 
 
-The Hamilton function for the planar circular Hill’s problem 
-$H(\mathbf x,\mathbf y)=\frac12\left(y_1^2+y_2^2\right)+x_2y_1-x_1y_2-x_1^2+\frac12x_2^2-\dfrac1r,\quad r=\sqrt{x_1^2+x_2^2}$, where
-$\mathbf x=(x_1,x_2)$ is the *coordinates vector*, а $\mathbf y=(y_1,y_2)$ is the conjugate *momenta vector*.
+The Hamilton function for the planar circular Hill’s problem  
+$H(\mathbf x,\mathbf y)=\frac12\left(y_1^2+y_2^2\right)+x_2y_1-x_1y_2-x_1^2+\frac12x_2^2-\dfrac1r$, 
+where $r=\sqrt{x_1^2+x_2^2}$, $\mathbf x=(x_1,x_2)$ is the *coordinates vector*, а $\mathbf y=(y_1,y_2)$ is the conjugate *momenta vector*.
 
 Canonical equations of motions: 
 
