@@ -1,0 +1,22 @@
+{
+	"fname": "a",
+	"symmetry": 1,
+	"genseq": [
+		"+1"
+	],
+	"type": "libration",
+	"colnames": [
+		"No",
+		"x0",
+		"py0",
+		"T",
+		"C",
+		"Stab",
+		"xh",
+		"pyh"
+	],
+	"datafile": "a.dat",
+	"refs": [
+		"HenonV"
+	],
+  }
